@@ -1,0 +1,3 @@
+Average code length   :  3.95 bits/symbol 
+Entropy               :  3.90 bits/symbol 
+Efficiency            :  98.87
